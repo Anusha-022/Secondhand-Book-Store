@@ -10,7 +10,7 @@ Achievements:
 Languages used: 
  HTML, CSS, JavaScript, PHP
 
-             SCREENSHOTS:
+    SCREENSHOTS:
 1. USER LOGIN 
 ![image](https://user-images.githubusercontent.com/84312718/187603636-70e16712-596f-4b04-b6d9-6629baf78233.png)
 
